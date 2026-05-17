@@ -1,11 +1,11 @@
 [
   {
     "name": "DRAGON RP #6 [VOICE]",
-    "addr": "51.83.189.15:7777",
+    "addr": "188.127.241.8:1301",
     "gamemode": "MAROC",
     "players": 0,
     "maxplayers": 1000,
-    "api": "http://51.83.189.15/"
+    "api": "http://188.127.241.8/"
   },
   {
     "name": "SanTrope RP #5 [VOICE]",
